@@ -8,11 +8,7 @@
 </p>
 
 ---
-I'm a software engineer and developer advocate with a passion for building accessible websites and fostering inclusive developer communities.
-
-My philosophy is simple: share what I know, stay curious, and create space for others to grow. I enjoy making technical concepts approachable—whether through blog posts, videos, talks, or open source contributions.
-
-Outside of tech, I’m a content creator who enjoys photography, documenting life abroad, and perfecting the art of Nigerian Jollof 🔥
+I'm a web developer, UI/UX designer.
 
 ---
 
